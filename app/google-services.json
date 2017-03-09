@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773830082578",
+    "firebase_url": "https://mau-coba-dulu.firebaseio.com",
+    "project_id": "mau-coba-dulu",
+    "storage_bucket": "mau-coba-dulu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773830082578:android:04d585f8340d949d",
+        "android_client_info": {
+          "package_name": "com.example.lw.atry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773830082578-n60isratkp6gkj19bfgpo4demicrfa2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBpq-oX0tFrTYm_73kY7VcnMv8igAAPF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

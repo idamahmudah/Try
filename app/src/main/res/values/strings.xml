@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Try</string>
+    <array name="genre">
+        <item>KPOP</item>
+        <item>JPOP</item>
+        <item>LOLLIPOP</item>
+    </array>
+</resources>
